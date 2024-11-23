@@ -72,7 +72,7 @@ cd astrum-library-project
 ### 2. Virtual muhitni yaratish va faollashtirish:
 ```bash
 python -m venv venv
-source venv/bin/activate  # Windows uchun: venv\Scriptsctivate
+source venv/bin/activate  # Windows uchun: venv\Scripts\activate
 ```
 
 ### 3. Talablarni o‘rnatish:
